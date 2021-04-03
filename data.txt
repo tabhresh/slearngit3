@@ -1,1 +1,2 @@
 Git and GitHub Training Material
+This file is to explain the concepts of git and github.
